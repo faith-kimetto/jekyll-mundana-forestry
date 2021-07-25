@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+gem 'github-pages'
 ruby RUBY_VERSION
 
 # If you have any plugins, put them here!
